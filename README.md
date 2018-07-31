@@ -17,15 +17,25 @@ It is, however, possible to use both Python and Scala to add features to the Pix
 ## Table of Contents
 
 Chapter 1: Perspectives on Data Science from a Developer
+
 Chapter 2: Data Science at Scale with Jupyter Notebooks and PixieDust
+
 Chapter 3: PixieApp under the Hood
+
 Chapter 4: Deploying PixieApps to the Web with the PixieGateway Server
+
 Chapter 5: Best Practices and Advanced PixieDust Concepts
+
 Chapter 6: Image Recognition with TensorFlow
+
 Chapter 7: Big Data Twitter Sentiment Analysis
+
 Chapter 8: Financial Time Series Analysis and Forecasting
+
 Chapter 9: US Domestic Flight Data Analysis Using Graphs
+
 Chapter 10: Final Thoughts
+
 Appendix: PixieApp Quick-Reference
 
 
