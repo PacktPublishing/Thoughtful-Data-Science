@@ -1,3 +1,0 @@
-# Perspectives on Data Science from a Developer
-
-The author attempts to provide a definition of data science through the prism of his own experience, building a data pipeline that performs sentiment analysis on Twitter posts. He defends the idea that it is a team sport and that most often, silos exist between the data science and engineering teams which cause unnecessary friction, inefficiencies, and ultimately a failure to realize its full potential. He also argues the point of view that data science is here to stay and that eventually, it will become an integral part of what is known today as computer science (He hopes that someday new terms will emerge like computer data science that better captures this duality).
