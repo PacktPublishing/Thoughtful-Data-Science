@@ -1,4 +1,4 @@
-#<p style="center;">Thoughtful Data Science</p>
+<p style="center;">Thoughtful Data Science</p>
 This is the code repository for [Thoughtful Data Science](https://www.packtpub.com/big-data-and-business-intelligence/thoughtful-data-science?utm_source=github&utm_medium=repository&utm_campaign=9781788839969), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the book from start to finish.
 ## About the Book
 Data science has become the one scientific endeavor every business has to contend with today. We also need to learn why data algorithms work, but even more importantly, we need to be able to create new insights from our data that we can actually work with. The why is addressed in many publications today, but it is not easy to create insights such that the data scientist does not look like a mountebank creating opaque notebook code before getting to the visually compelling bits of data science: the data science process itself has to be transparent, easy to understand, and it has to be straightforward to optimise.
