@@ -18,7 +18,7 @@ It is, however, possible to use both Python and Scala to add features to the Pix
 
 Chapter 1: Perspectives on Data Science from a Developer
 
-Chapter 2: Data Science at Scale with Jupyter Notebooks and PixieDust
+[Chapter 2](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter02): Data Science at Scale with Jupyter Notebooks and PixieDust
 
 Chapter 3: PixieApp under the Hood
 
