@@ -37,6 +37,3 @@ to follow the example along
 * [Hands-On Data Science with Anaconda](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-anaconda?utm_source=github&utm_medium=repository&utm_campaign=9781788831192)
 
 * [Hands-On Data Science with Command Line](https://www.packtpub.com/big-data-and-business-intelligence/hands-data-science-command-line?utm_source=github&utm_medium=repository&utm_campaign=9781789132984)
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
