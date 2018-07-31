@@ -20,21 +20,21 @@ Chapter 1: Perspectives on Data Science from a Developer
 
 [Chapter 2](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter02): Data Science at Scale with Jupyter Notebooks and PixieDust
 
-Chapter 3: PixieApp under the Hood
+[Chapter 3](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter03): PixieApp under the Hood
 
-Chapter 4: Deploying PixieApps to the Web with the PixieGateway Server
+[Chapter 4](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter04): Deploying PixieApps to the Web with the PixieGateway Server
 
-Chapter 5: Best Practices and Advanced PixieDust Concepts
+[Chapter 5](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter05): Best Practices and Advanced PixieDust Concepts
 
-Chapter 6: Image Recognition with TensorFlow
+[Chapter 6](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter06): Image Recognition with TensorFlow
 
-Chapter 7: Big Data Twitter Sentiment Analysis
+[Chapter 7](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter07): Big Data Twitter Sentiment Analysis
 
-Chapter 8: Financial Time Series Analysis and Forecasting
+[Chapter 8](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter08): Financial Time Series Analysis and Forecasting
 
-Chapter 9: US Domestic Flight Data Analysis Using Graphs
+[Chapter 9](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter09): US Domestic Flight Data Analysis Using Graphs
 
-Chapter 10: Final Thoughts
+[Chapter 10](https://github.com/PacktPublishing/Thoughtful-Data-Science/tree/master/Chapter10): Final Thoughts
 
 Appendix: PixieApp Quick-Reference
 
