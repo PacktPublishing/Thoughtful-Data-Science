@@ -9,27 +9,14 @@ David Taieb created Pixiedust in Python to be able to teach non-data scientists 
 
 It is, however, possible to use both Python and Scala to add features to the Pixiedust data pipeline, and ultimately, to bring the power of the Spark big data framework to the data scientist.
 
-## Instructions and Navigation
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+## What You Will Learn
+* How to write basic Pixiedust dashboards
+* Building your own data pipelines without writing connecting pipeline code
+* Learn how to use Jupyter notebooks without the pain
+* Create compelling data visualisations in Pixiedust
+* Write applications running on Spark, without writing Spark code
 
 
-
-The code will look like the following:
-```
-import pandas
-data_url = "https://data.cityofnewyork.us/api/views/e98g-f8hy/rows.
-csv?accessType=DOWNLOAD"
-building_df = pandas.read_csv(data_url)
-building_df
-```
-
-Most of the software needed to follow the example is open source and
-therefore free to download. Instructions are provided throughout the book,
-starting with installing anaconda which includes the Jupyter Notebook server.
-In Chapter 7, Big Data Twitter Sentiment Analysis, the sample application
-requires the use of IBM Watson cloud services including NLU and Streams
-Designer. These services come with a free tier plan, which is suffi cient
-to follow the example along
 
 ## Related Products
 * [Beginning Data Science with Python and Jupyter](https://www.packtpub.com/big-data-and-business-intelligence/beginning-data-science-python-and-jupyter?utm_source=github&utm_medium=repository&utm_campaign=9781789532029)
